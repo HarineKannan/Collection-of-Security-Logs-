@@ -1,0 +1,11 @@
+﻿  Adder.java
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(1,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(1,8): error C2146: syntax error: missing ';' before identifier 'java'
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(3,14): error C3381: 'Adder': assembly access specifiers are only available in code compiled with a /clr option
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(5,5): error C2059: syntax error: 'static '
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(5,12): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(11,12): error C2146: syntax error: missing ':' before identifier 'native'
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(11,46): error C2238: unexpected token(s) preceding ';'
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(14,12): error C2062: type 'void' unexpected
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(14,44): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Projects\Adder JNI\Adder\Adder\Adder.java(53,1): error C1004: unexpected end-of-file found

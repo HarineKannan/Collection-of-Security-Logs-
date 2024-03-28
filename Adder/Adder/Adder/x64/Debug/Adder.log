@@ -1,0 +1,11 @@
+﻿  Adder.cpp
+  Adder.java
+C:\Users\harine-pt7602\source\repos\Adder\Adder\Adder.java(2,14): error C3381: 'Adder': assembly access specifiers are only available in code compiled with a /clr option
+C:\Users\harine-pt7602\source\repos\Adder\Adder\Adder.java(4,5): error C2059: syntax error: 'static '
+C:\Users\harine-pt7602\source\repos\Adder\Adder\Adder.java(4,12): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\harine-pt7602\source\repos\Adder\Adder\Adder.java(9,12): error C2146: syntax error: missing ':' before identifier 'native'
+C:\Users\harine-pt7602\source\repos\Adder\Adder\Adder.java(9,40): error C2238: unexpected token(s) preceding ';'
+C:\Users\harine-pt7602\source\repos\Adder\Adder\Adder.java(12,12): error C2062: type 'void' unexpected
+C:\Users\harine-pt7602\source\repos\Adder\Adder\Adder.java(12,44): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\harine-pt7602\source\repos\Adder\Adder\Adder.java(18,1): error C1004: unexpected end-of-file found
+  Generating Code...
